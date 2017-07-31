@@ -14,3 +14,4 @@ Deaths (deaths)
 Damage (damage) 
 Notes (notes)
 
+I order to view the html file of the python notebook please go to: 
